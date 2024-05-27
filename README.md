@@ -19,8 +19,8 @@
   ### Connect with me:
 
 <div> 
-
-  <a href = "mailto:ybruno260@gmail.com">[![My Skills](https://skillicons.dev/icons?i=gmail)](<a href = "mailto:ybruno260@gmail.com">)
-  [![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/bruno-pimentel-722757240/")) 
  
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-pimentel-722757240/")
+ [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ybruno260@gmail.com)
+
 </div>
