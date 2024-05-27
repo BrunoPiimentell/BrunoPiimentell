@@ -20,7 +20,7 @@
 
 <div> 
 
-  <a href = "mailto:ybruno260@gmail.com">[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)</a>
-  <a href="https://www.linkedin.com/in/bruno-pimentel-722757240/" target="_blank">[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a> 
+  <a href = "mailto:ybruno260@gmail.com">[![My Skills](https://skillicons.dev/icons?i=gmail)](<a href = "mailto:ybruno260@gmail.com">)
+  [![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/bruno-pimentel-722757240/")) 
  
 </div>
